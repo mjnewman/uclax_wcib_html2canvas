@@ -1,0 +1,9 @@
+.canvas {
+  background: lime;
+  font-weight: 800;
+  font-size: 100px; }
+  .canvas .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: #64c864; }
